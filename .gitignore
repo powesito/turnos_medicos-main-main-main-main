@@ -1,0 +1,7 @@
+# yo se que es mala practica subir todos los datos al github pero lo hice para la evalucion por ej el .env
+#.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
